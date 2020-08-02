@@ -18,7 +18,7 @@ const channelName = "YOUR_SLACK_CHANNEL_NAME";
 
 // this will display on notification section only. But if blocks are invalid, this will show up on the given channel as well (I'm not sure. sorry).
 // I also use this text as header. you can find it below 'Slack Message Generator' section.
-const notificationText = "Another Notification Here!";
+const notificationText = "New Response!";
 
 // Just FYI : row and column number start from 1, not 0.
 
