@@ -40,7 +40,7 @@ I'll show you results.
 
 <img src="https://github.com/roeniss/google-forms-response-to-slack/blob/master/imgs/4%20add%20trigger%20after%20editing%20scripts.png?raw=true" width="500px" alt="add trigger after editing scripts">
 
-6. Before go furthur, you should run `sendNewGoogleFormsResponseToSlack()` in Script Editor because you need to authorize you script to make sure your script get rights to see your own spreadsheet. THIS IS GOOGLE SYSTEM
+6. Before go furthur, you should run `sendNewGoogleFormsResponseToSlack()` in Script Editor because you need to authorize your script to make sure your script get rights to see your own spreadsheet. THIS IS GOOGLE SYSTEM
 
 7. Test it by answering your forms. You will get notification and message of it. <img src="https://github.com/roeniss/google-forms-response-to-slack/blob/master/imgs/5%20answer%20forms.png?raw=true" width="500px" alt="answer forms">
 
