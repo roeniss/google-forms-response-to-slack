@@ -50,6 +50,6 @@ you can find how to add tigger on here : https://stackoverflow.com/a/57874051/85
 
 When new response came in, connected spreadsheet is 'changed' because new response get written on it. It triggers my script by a set trigger. Then the script fetch hooks with spreadsheet body (as awscome cool string format). That's it.
 
-# I can't follow up. It's too hard!
+# "I can't follow up. It's too hard!"
 
 If you have a trouble on this, please leave a issue. I will respond to it as soon as possible! :)
