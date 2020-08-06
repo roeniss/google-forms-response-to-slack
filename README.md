@@ -36,7 +36,7 @@ I'll show you results.
 
 4. In Editor, copy and paste `script.js`from this github. Make sure you edit Global Configuration section in the code.
 
-5. Add trigger. In below screenshots, for not Korean, left 3rd is "choose event source: from spreadsheets" left 4th is "choose event type: when changed", and right 1st is "trigger fail alert settings: immediately".
+5. Add trigger. In below screenshots, for not Korean, left 3rd is "choose event source: from spreadsheets" left 4th is ~~"choose event type: when changed",~~ ** check 'on form submit'! ** and right 1st is "trigger fail alert settings: immediately".
 
 <img src="https://github.com/roeniss/google-forms-response-to-slack/blob/master/imgs/4%20add%20trigger%20after%20editing%20scripts.png?raw=true" width="500px" alt="add trigger after editing scripts">
 
